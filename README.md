@@ -32,12 +32,12 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" />
 </p>
 
-### **🎨 Frontend Development**
+### **🎨 UI/UX & Frontend Design**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js" />
 </p>
 
-### **⚙️ Backend / Tools**
+### **⚙️ Tools & APIs**
 <p>
   <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" />
 </p>
