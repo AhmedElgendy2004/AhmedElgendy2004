@@ -59,22 +59,7 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 ---
 
-## 📊 GitHub Statistics Overview
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedElGendy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedElGendy&theme=tokyonight&hide_border=true&background=0d1117"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -98,7 +83,6 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 <td width="50%">
 
 <a href="https://github.com/AhmedElGendy/movie_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedElGendy&repo=movie_app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 **Movie App**
@@ -118,7 +102,7 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElGendy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img src="https://skillicons.dev/icons?i=dart,cpp,python"/>
 
 </div>
 
