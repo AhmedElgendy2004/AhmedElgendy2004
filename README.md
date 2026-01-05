@@ -87,7 +87,6 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 <td width="50%">
 
 <a href="https://github.com/AhmedElGendy/BMI_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedElGendy&repo=BMI_App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
 **BMI Calculator App**
