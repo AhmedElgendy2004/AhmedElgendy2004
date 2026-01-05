@@ -90,7 +90,8 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 <a href="https://github.com/AhmedElGendy/movie_app">
 </a>
 
-**Movie App**
+**Bookly App**
+- Built with Flutter & Dart 
 - API Integration  
 - Smooth Animations  
 - Responsive Design  
