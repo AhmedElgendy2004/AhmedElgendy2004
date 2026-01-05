@@ -39,10 +39,20 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 ### **🧠 Languages I’ve Learned**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,assembly" />
 </p>
 
 </div>
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,cpp,python"/>
+
+</div>
+
+---
 
 ---
 
@@ -88,16 +98,6 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=dart,cpp,python"/>
 
 </div>
 
