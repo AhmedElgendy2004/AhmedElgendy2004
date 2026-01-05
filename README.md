@@ -39,7 +39,7 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 ### **🧠 Languages I’ve Learned**
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,assembly" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,dart" />
 </p>
 
 </div>
