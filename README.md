@@ -34,7 +34,7 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 ### **⚙️ Tools & APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode,vs" />
+<img src="https://skillicons.dev/icons?i=figma,postman,git,github,vscode,visualstudio" />
 </p>
 
 ### **🧠 Languages I’ve Learned**
