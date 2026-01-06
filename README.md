@@ -44,6 +44,8 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 </div>
 
+---
+
 ## 📊 Most Used Languages
 
 <div align="center">
@@ -60,7 +62,6 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 
 
----
 
 ## 💻 Featured Projects
 
