@@ -131,7 +131,7 @@ I enjoy exploring new technologies, improving UI/UX design, and writing clean, m
 
 ---
 
-### 💫 *"Keep learning, keep building, and stay humble."*
+### 💫 *"قال ﷺ: «أحب الأعمال إلى الله تعالى أدومها وإن قَلَّ»."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
